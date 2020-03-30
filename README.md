@@ -8,7 +8,7 @@
 			
 			.bg{
 				width:1360px;
-				height:2000px;
+				height:1570px;
 				background-image: url(img1/bg-body.jpg);
 			}
 			#tp{
@@ -269,6 +269,12 @@
 			#w5 a li:active{
 				color: #AA7D00;
 			}
+			#w7{
+				width: 960px;
+				height: 20px;
+				background-color: #FAFF93;
+				border-bottom: 1px  #D1A400;
+			}
 		</style>
 	</head>
 	<body>
@@ -340,6 +346,7 @@
 				<div id="w5"><a href="#"><li>Home</li></a><a href="#"><li>About</li></a><a href="#5"><li>Blog</li></a><a href="#5"><li>Shop</li></a><a href="#5"><li>Contact</li></a><a href="#5"><li>Us</li></a><a href="#5"><li>网页模板</li></a></div>
 			</div>
 		</div>
+		<div id="w7"></div>
 		</div>
 	</body>
 </html>
